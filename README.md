@@ -1,2 +1,2 @@
 # NisaurRohmah
-Web untuk menyelesaikan tugas uta
+Web untuk menyelesaikan tugas uts
